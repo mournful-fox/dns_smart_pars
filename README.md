@@ -28,7 +28,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-3. Проверьте, что в папке со скриптом находится chromedriver.exe правильной версии.
+3. Проверьте, что в папке со скриптом находится chromedriver.exe правильной версии. (Свою версию chrome можно посмотреть в "О браузере Chrome" в разделе настроек. Версии Chrome и chromedriver должны совпадать, либо отличаться незначительно). 
    Скачать WebDriver можно отсюда: [Официальный репозиторий WebDriver от Chrome](https://googlechromelabs.github.io/chrome-for-testing/)
 
 
